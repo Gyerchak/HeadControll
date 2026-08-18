@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=HeadControll
+GenericName=OpenCodeBox project terminal
+Comment=Open the HeadControll project terminal
+Exec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/HeadControll/box/scripts/HeadControll.sh launch
+TryExec=/run/media/hubertg/SONIC/OpenCodeBox/git-projects/HeadControll/box/scripts/HeadControll.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;
